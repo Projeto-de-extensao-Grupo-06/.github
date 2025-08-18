@@ -12,6 +12,15 @@ Instale my-project com npm
   npm install my-project
   cd my-project
 ```
+
+## Variáveis de Ambiente
+
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
+
+```bash
+  API_KEY=    # Descrição - Chave da sua API
+  ANOTHER_API_KEY=    # Descrição - Chave da sua API
+```
     
 ## Documentação da API
 
@@ -49,15 +58,4 @@ Para fazer o deploy desse projeto rode
 ```bash
   npm run deploy
 ```
-
-
-## Variáveis de Ambiente
-
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
-
-
-| Variável  | Tipo       | Descrição                           |
-| :---------- | :--------- | :---------------------------------- |
-| `API_KEY=` | `string` | **Obrigatório**. A chave da sua API |
-| `ANOTHER_API_KEY=` | `string` | **Obrigatório**. A outra chave da sua API |
 
