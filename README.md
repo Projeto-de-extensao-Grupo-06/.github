@@ -1,1 +1,1 @@
-# .github
+# Projeto de Extensão - Grupo 6
