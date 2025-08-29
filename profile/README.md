@@ -26,8 +26,8 @@ Ser referência em **projetos de impacto social e inovação tecnológica**, que
 ## Alinhamento com os ODS
 O projeto busca contribuir para os **Objetivos de Desenvolvimento Sustentável (ODS)** da ONU, com foco em áreas como:   
 - **ODS 7:** Energia Limpa e Acessível  
-- **ODS 8:** Cidades e Comunidades Sustentáveis  
-- **ODS 9:** Ação Contra a Mudança Global do Clima  
+- **ODS 8:** Trabalho decente e crescimento econômico  
+- **ODS 9:** AIndústria, inovação e infraestrutura  
 
 ---
 
